@@ -1,0 +1,82 @@
+body {
+  color: #26321a;
+  margin-top: 20px;
+  background-color: #c4dda6;
+  font-family: "Gill Sans";
+}
+
+a {
+  color: #EBE6E3;
+  text-decoration: none;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20.6px;
+}
+
+p {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+li {
+  font-weight: bold;
+  font-size: 20.5px;
+}
+
+.Categories {
+  width: 300px;
+  border: 10px solid #00c3cc;
+  border-radius: 14px;
+}
+
+#section1 {
+  margin-top: -40px;
+  padding: 40px;
+}
+
+#WelcomeHeader {
+  color: #5f7e41;
+  margin-left: 0px;
+  font-size: 50px;
+  text-align: left;
+  width: 900px;
+}
+
+#WelcomeSubHeader {
+  width: 800px;
+}
+
+#ShopButton {
+  margin-top: 10px;
+  margin-left: -5px;
+  text-align: center;
+  height: 50px;
+  width: 180px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #5f7e41;
+  border-radius: 10px;
+  background-color: #b0c795;
+}
+
+#ShopButtonText {
+  color: #5f7e41;
+  display: block;
+  margin-top: 8px;
+  font-size: 30px;
+}
+
+#treeBear {
+  display: block;
+  margin-top: -500px;
+  margin-right: -50px;
+  margin-left: auto;
+  width: 40%;
+}
+
+html, body {
+    overflow-x: hidden;
+    height: 96%;
+}
